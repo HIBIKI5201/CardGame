@@ -4,7 +4,7 @@
 > 原作に関する権利は Warframe および Digital Extremes Ltd. に帰属します。
 > 本作は非公式のファン作品であり、Digital Extremes Ltd. とは関係ありません。
 
-2人用オリジナルカードゲーム（ルールは [rules.md](rules.md)）を、ブラウザでオンライン対戦できるようにしたものです。
+2人用カードゲーム（ルールは [rules.md](rules.md)）を、ブラウザでオンライン対戦できるようにしたものです。
 
 **遊ぶ:** https://hibiki5201.github.io/CardGame/
 
